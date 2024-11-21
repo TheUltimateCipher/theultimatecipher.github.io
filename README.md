@@ -13,6 +13,7 @@ If you don't want to read here is a quick bulleted summary of what is reviewed b
  - Visit the website at theultimatecipher.github.io
  - You are free to modify the code but credit is appreciated.
  - The encryption and decryption is extremely heavy. Details about how it works can be found in the Encryption/Decryption section.
+ - As of the v2.0 update you can now add an extra layer of encryption using your own custom key!
  - The security is extremely strong. Not even AI is able to break it.
  - The Ultimate Cipher comes with lots of customizable features like particles and themes.
  - You can create your own custom theme and particle using theultimatecipher.github.io/theme-editor and theultimatecipher.github.io/particle-editor. Detailed instructions can be found in the Settings section below.
@@ -41,6 +42,9 @@ The program starts by randomly generating a key each time. (This allows the encr
 The program works backwards of the encryption process. It first starts by recreating the key. It finds the different fragments of the key in the message and uses it to reconstruct the key. It can then use this key to decrypt the message.
 
 It sounds quite simple when put like this but coding this was no easy task. **It is guaranteed that no one can break it. Not even AI.**
+
+#### Custom Key
+V2.0 of the Ultimate Cipher introduced a new feature to further enhance the security of these messages. **You can now add a key as an extra layer of encryption!** This means if someone were to randomly find your message and put it through the Ultimate Cipher they would still end up with gibberish. The only way to encrypt the message is if you: have the encrypted message, have the key, AND use the Ultimate Cipher to decrypt it. Your messages are extremely safe.
 
 ## Settings
 The Ultimate Cipher comes with lots of custom features. The theme can be changed either to premade ones or your own that you design! If you have VIP you can also enable particles or create your own.
