@@ -1,6 +1,4 @@
-# The Ultimate Cipher v1.0
-
-**NOTE: v1.0 IS OUTDATED. IT IS RECOMMENDED YOU VISIT v2.0 FOR THE MOST UPDATED VERSION**
+# The Ultimate Cipher v2.0
 
 By using our website you agree to our terms and conditions.
 
