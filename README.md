@@ -44,7 +44,7 @@ The program works backwards of the encryption process. It first starts by recrea
 It sounds quite simple when put like this but coding this was no easy task. **It is guaranteed that no one can break it. Not even AI.**
 
 #### Custom Key
-V2.0 of the Ultimate Cipher introduced a new feature to further enhance the security of these messages. **You can now add a key as an extra layer of encryption!** This means if someone were to randomly find your message and put it through the Ultimate Cipher they would still end up with gibberish. The only way to encrypt the message is if you: have the encrypted message, have the key, AND use the Ultimate Cipher to decrypt it. Your messages are extremely safe.
+V2.0 of the Ultimate Cipher introduced a new feature to further enhance the security of these messages. **You can now add a key as an extra layer of encryption!** This means if someone were to randomly find your message and put it through the Ultimate Cipher they would still end up with gibberish. The only way to decrypt the message is if you: have the encrypted message, have the key, AND use the Ultimate Cipher to decrypt it. Your messages are extremely safe.
 
 ## Settings
 The Ultimate Cipher comes with lots of custom features. The theme can be changed either to premade ones or your own that you design! If you have VIP you can also enable particles or create your own.
